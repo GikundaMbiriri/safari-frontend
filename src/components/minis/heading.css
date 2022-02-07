@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+.heading{
+    text-align: left;
+    margin-left: 200px;
+}
+.heading h2{
+    color: #6169D0;
+    padding-top: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+}

@@ -1,0 +1,15 @@
+@import '~antd/dist/antd.css';
+.menu{
+    background-color: #313A46;
+    width: 30vw;
+    color: white;
+}
+/* .subm{
+    color: #FFFFFF;
+}
+.item{
+    background-color: #313A46;
+    color: #FFFFFF;
+
+
+} */

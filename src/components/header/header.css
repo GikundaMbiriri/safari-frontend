@@ -1,0 +1,20 @@
+.head{
+    height: 50px;
+    width: 100vw;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+.cname{
+    color: #6169D0;
+    font-size: 22px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.logout{
+    padding-right: 10px;
+    color: #6169D0;
+
+}
