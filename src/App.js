@@ -4,7 +4,7 @@ import Drawer from './components/drawer/Drawer';
 import Header from './components/header/Header';
 import Table from './components/table/Table';
 import Footer from './components/footer/Footer';
-import { BrowserRouter as Router ,Route,Switch} from "react-router-dom";
+import { HashRouter as Router ,Route,Switch} from "react-router-dom";
 import home from './pages/home/home'
 import login from './pages/login/login';
 import adminlogin from './pages/login/admin';
